@@ -9,7 +9,7 @@ let contraseña;
 for (let i = 3; i > 0; i--) {
     let contraseña = prompt("Escribe la contraseña");
     if (clave === contraseña) {
-        console.log("Enhorabueba");
+        console.log("Enhorabuena");
         break;
     }
 }
